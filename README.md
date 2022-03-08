@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Meenakshi Sundaram
+- 👀 I’m interested in new technology
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me meenakshisundaram3298@gmail.com
